@@ -1,3 +1,4 @@
+
 package com.redhat.coolstore.utils;
 
 import javax.annotation.PostConstruct;
